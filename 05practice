@@ -1,0 +1,11 @@
+
+public class pkg05practice {
+
+    public static void main(String[] args) {
+        String FirstName, LastName;
+        FirstName = "Ahmad";
+        LastName = "hazrati";
+        System.out.println("Full Name : " +FirstName +  LastName);
+    }
+
+}

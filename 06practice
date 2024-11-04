@@ -1,0 +1,11 @@
+
+public class pkg06practice {
+
+    public static void main(String[] args) {
+        double d = 9.7;
+        int b = (int) d;
+        System.out.println("double value = " + d);
+        System.out.println("Integer value = " + b);
+    }
+
+}
